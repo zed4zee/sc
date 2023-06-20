@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  site-url: https://zed4zee.github.io/python
+  search:
+    location: navbar
+    type: overlay
+  favicon: images/favicon.jpg
+  navbar:
+    title: "Abdullah Zeeshan"
+    right:
+      - text: "Notes"
+        href: notes.qmd
+      - icon: github
+        href: https://github.com/zed4zee
+      - icon: rss
+        href: index.xml
+  page-footer:
+    left:
+      - text: © 2023-present.
+  page-navigation: true
+  reader-mode: true
+  back-to-top-navigation: true
+format:
+  html:
+    theme: default
+    toc: true
+
