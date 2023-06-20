@@ -1,1 +1,1 @@
-Sitemap: https://zed4zee.github.io/python/sitemap.xml
+Sitemap: https://zed4zee.github.io/sc/sitemap.xml
